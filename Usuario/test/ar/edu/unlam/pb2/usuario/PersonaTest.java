@@ -12,7 +12,7 @@ class PersonaTest {
 		String nombre ="ruben";
 		
 		Persona persona = new Persona (dni,nombre);
-		assertNotNull(persona);
+		assertTrue(persona);
 		//wate
 		
 	}
