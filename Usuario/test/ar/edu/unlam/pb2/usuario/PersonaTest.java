@@ -13,6 +13,8 @@ class PersonaTest {
 		
 		Persona persona = new Persona (dni,nombre);
 		assertNotNull(persona);
+		//watefac
+		
 	}
 
 }
